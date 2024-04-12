@@ -37,4 +37,4 @@ while valor1 != -1:
 
     print('\n', mensagem)
     valor1 = float(input('digite um numero> '))
-print('> calculadora encerrada.'
+print('> calculadora encerrada.')
