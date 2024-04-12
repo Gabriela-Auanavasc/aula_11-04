@@ -30,7 +30,6 @@ while valor1 != -1:
             print('\n> erro; divisão por 0')
     else:
         print('\n> operador inválido')
-        continue
 
     print('\n> resultado = ', resultado)
     print('---------------------')
